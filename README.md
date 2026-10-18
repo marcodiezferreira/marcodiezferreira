@@ -1,16 +1,16 @@
 # 👋 Hola, soy Marco Díez
 
-Construyo **aplicaciones y automatizaciones con inteligencia artificial**, y llevo más de 15 años en **marketing digital y SEO**.
-Me gusta construir las herramientas, no solo recomendarlas. Desde Córdoba, en remoto para toda España.
+**Marketing digital y desarrollo.** Llevo más de 15 años ayudando a negocios a conseguir clientes por internet y construyendo las webs y herramientas que lo hacen posible.
+Veo cada proyecto desde los dos lados: qué hace falta para que te encuentren y cómo construirlo bien. Desde Córdoba, en remoto para toda España.
 
 🌐 [marcodiez.es](https://marcodiez.es) · 💼 [LinkedIn](https://www.linkedin.com/in/soymarcodiez/) · ✉️ [Escríbeme](https://marcodiez.es/contacto/)
 
 ## 🚀 Qué hago
 
-- 🤖 **Apps y asistentes con IA** a medida, empezando por una primera versión pequeña que se pueda probar.
-- ⚙️ **Automatizaciones** con n8n e IA: formularios, correo, CRM y documentos que se mueven solos, con una persona revisando lo importante.
-- 📈 **Marketing digital y SEO**, también para aparecer en las respuestas de ChatGPT, Gemini o Perplexity.
-- 🧱 **Webs** rápidas, accesibles y bien posicionadas.
+- 📈 **Marketing digital y SEO**: estrategia, contenido y posicionamiento en Google, también en las respuestas de ChatGPT, Gemini o Perplexity. Medir para decidir con datos.
+- 💻 **Desarrollo web**: webs rápidas, accesibles y bien posicionadas, pensadas para que el visitante entienda qué ofreces y te escriba.
+- 🧩 **Aplicaciones a medida**: herramientas propias cuando el software de siempre no encaja, empezando por una primera versión pequeña.
+- ⚙️ **Automatización e IA al servicio del marketing**: formularios, correo, CRM y contenido que se mueven solos, con una persona revisando lo importante.
 
 ## 🧩 Proyectos
 
@@ -33,6 +33,17 @@ Me gusta construir las herramientas, no solo recomendarlas. Desde Córdoba, en r
 
 ## 🧰 Tecnologías
 
+**Marketing:**
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+**Desarrollo:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
