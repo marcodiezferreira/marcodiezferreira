@@ -1,0 +1,28 @@
+# Actualiza cada semana la sección «Últimas noticias» del README con el RSS de marcodiez.es.
+# El commit sale a nombre de marcodiezferreira (no de un bot), solo si hay cambios.
+name: Últimas noticias
+
+on:
+  schedule:
+    - cron: '0 7 * * 2,5'   # martes y viernes a las 7:00 UTC (después de publicar las noticias de lunes y jueves)
+  workflow_dispatch:         # botón «Run workflow» para lanzarlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/actualizar_noticias.py
+      - name: Guardar si hay cambios
+        run: |
+          if git diff --quiet; then echo "Sin cambios"; exit 0; fi
+          git config user.name "marcodiezferreira"
+          git config user.email "261034537+marcodiezferreira@users.noreply.github.com"
+          git commit -am "Últimas noticias de marcodiez.es"
+          git push
