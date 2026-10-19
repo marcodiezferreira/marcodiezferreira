@@ -17,11 +17,33 @@ Sin intermediarios entre la idea y el código.
 
 ## 🧩 Proyectos
 
+Herramientas pequeñas, gratuitas y de código abierto que uso en mi día a día.
+
+### 📈 Marketing
+
 | Proyecto | Qué es |
 |---|---|
 | [**ai-seo-audit**](https://github.com/marcodiezferreira/ai-seo-audit) | Revisa si una web está preparada para Google y los buscadores con IA: robots, `llms.txt`, JSON-LD, metas. Python, sin dependencias |
+| [**utm-builder**](https://github.com/marcodiezferreira/utm-builder) | Enlaces con UTM sin errores: plantillas, normalización, QR, lotes e historial. [Pruébala](https://marcodiezferreira.github.io/utm-builder/) |
+| [**llms-txt-generator**](https://github.com/marcodiezferreira/llms-txt-generator) | Crea el `llms.txt` de tu web a partir del sitemap, para que los asistentes con IA la entiendan. Python, sin dependencias |
+
+### 💻 Desarrollo
+
+| Proyecto | Qué es |
+|---|---|
 | [**brand-og-image**](https://github.com/marcodiezferreira/brand-og-image) | Imágenes para compartir (Open Graph) con tu marca a partir de un título, sin navegador |
+| [**jsonld-generator**](https://github.com/marcodiezferreira/jsonld-generator) | Datos estructurados JSON-LD (negocio local, empresa, persona, FAQ, artículo) con un formulario. [Pruébala](https://marcodiezferreira.github.io/jsonld-generator/) |
+
+### ⚙️ Automatización
+
+| Proyecto | Qué es |
+|---|---|
 | [**n8n-weekly-trends**](https://github.com/marcodiezferreira/n8n-weekly-trends) | Plantilla n8n: las 5 tendencias de la semana en IA y desarrollo, en tu Telegram |
+
+### 🏗️ En producción
+
+| Proyecto | Qué es |
+|---|---|
 | [**Dokzia**](https://dokzia.com) | Aplicación que convierte PDF en documentos accesibles (PDF/UA) con IA y revisión humana |
 
 👉 Todos mis proyectos en [marcodiez.es/proyectos](https://marcodiez.es/proyectos/)
