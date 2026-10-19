@@ -1,7 +1,10 @@
 # 👋 Hola, soy Marco Díez
 
-**Marketing digital y desarrollo.** Llevo más de 15 años ayudando a negocios a conseguir clientes por internet y construyendo las webs y herramientas que lo hacen posible.
-Veo cada proyecto desde los dos lados: qué hace falta para que te encuentren y cómo construirlo bien. Desde Córdoba, en remoto para toda España.
+**Soy marketer y desarrollador.**
+Diseño la estrategia para que un negocio consiga clientes y construyo yo mismo la web, la app o la automatización que la hace funcionar.
+Sin intermediarios entre la idea y el código.
+
+📍 Córdoba · remoto para toda España
 
 🌐 [marcodiez.es](https://marcodiez.es) · 💼 [LinkedIn](https://www.linkedin.com/in/soymarcodiez/) · ✉️ [Escríbeme](https://marcodiez.es/contacto/)
 
