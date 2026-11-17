@@ -51,9 +51,11 @@ Herramientas pequeñas, gratuitas y de código abierto que uso en mi día a día
 ## 📰 Últimas noticias en mi web
 
 <!-- NOTICIAS:INICIO -->
+- [Cómo automatizar facturas con IA sin que se aprueben solas](https://marcodiez.es/noticias/automatizar-facturas-con-ia/)
+- [Cómo aparecer en ChatGPT y en las respuestas de la IA](https://marcodiez.es/noticias/como-aparecer-en-chatgpt-y-respuestas-ia/)
+- [n8n: qué es, para qué sirve y si merece la pena](https://marcodiez.es/noticias/n8n-que-es-para-que-sirve-gratis/)
+- [Por qué mis correos llegan a spam y cómo arreglarlo](https://marcodiez.es/noticias/porque-mis-correos-llegan-a-spam-como-arreglarlo/)
 - [Cómo automatizar las solicitudes de tu formulario web con inteligencia artificial](https://marcodiez.es/noticias/automatizar-formulario-web-con-ia/)
-- [PDF accesibles y PDF/UA: qué son, a quién afectan y cómo prepararlos](https://marcodiez.es/noticias/pdf-accesibles-pdf-ua/)
-- [SEO local para pequeños negocios: lo que de verdad funciona (con ejemplos de Córdoba)](https://marcodiez.es/noticias/seo-local-pequenos-negocios-cordoba/)
 <!-- NOTICIAS:FIN -->
 
 ## 🧰 Tecnologías
