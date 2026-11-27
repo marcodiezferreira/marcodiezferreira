@@ -51,11 +51,11 @@ Herramientas pequeñas, gratuitas y de código abierto que uso en mi día a día
 ## 📰 Últimas noticias en mi web
 
 <!-- NOTICIAS:INICIO -->
+- [Automatizar procesos con IA en una pequeña empresa: por dónde empezar](https://marcodiez.es/noticias/automatizar-procesos-con-ia-pequena-empresa/)
+- [Hosting o VPS: qué necesita tu web y cuándo cambiar](https://marcodiez.es/noticias/hosting-o-vps-para-un-negocio/)
 - [ChatGPT para empresas: qué cambia, cómo se usa y cuándo merece la pena](https://marcodiez.es/noticias/chatgpt-para-empresas-como-funciona-y-compensa/)
 - [Cómo limpiar un WordPress hackeado sin empeorarlo](https://marcodiez.es/noticias/limpiar-wordpress-hackeado-paso-a-paso/)
 - [Cómo migrar correo a Google Workspace sin perder ni un mensaje](https://marcodiez.es/noticias/migrar-correo-google-workspace-sin-perder-mensajes/)
-- [Automatizar WhatsApp con IA sin poner en riesgo el número](https://marcodiez.es/noticias/automatizar-whatsapp-con-ia-que-se-puede-y-que-no/)
-- [Cómo automatizar facturas con IA sin que se aprueben solas](https://marcodiez.es/noticias/automatizar-facturas-con-ia/)
 <!-- NOTICIAS:FIN -->
 
 ## 🧰 Tecnologías
